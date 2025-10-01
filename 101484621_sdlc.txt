@@ -1,0 +1,7 @@
+<== SDLC ==>
+
+DevOps plays an important role in the software development life cycle (SDLC). 
+Traditional SDLC modles sepparate development and operations, leading to 
+delays, miscommunication, and a higher risk of errors. DevOps promotes 
+collaboration between these two phases of a project through a variety of 
+tools and a DevOps mindset.
