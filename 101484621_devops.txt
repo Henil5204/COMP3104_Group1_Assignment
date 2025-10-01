@@ -1,0 +1,5 @@
+<== Developer Operations ==>
+
+COMP 3104 -DevOps is a technical course focused on teaching students how to 
+use modern tools like Travis CI and GitHub to effectivley manage continuous 
+integration (CI) and continuous deployment (CD) within large projects.
