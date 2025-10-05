@@ -1,0 +1,5 @@
+=== DEVOPS ===
+
+Devops is a practice of collaborative work between the organization's
+software development and the IT operations teams. Devops is a philosophy promoting
+better communication between different teams.
