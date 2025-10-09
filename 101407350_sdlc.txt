@@ -1,0 +1,5 @@
+=== SDLC ===
+
+Is a structured methodology with a defined pattern of process for creating high-quality
+software. It follows a modular process where the development plans, designs, implement,
+test, deploy, and test.
