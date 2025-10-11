@@ -3,6 +3,7 @@
 ## Group Members
 - **Leader:** Henil  Patel (101511850) - [GitHub](https://github.com/Henil5204)
 - **Member 2:** Jayden Lewis (101484621) - [GitHub](https://github.com/BabyEyes17)
+- **Member 3:** Bryan Paul Yabut (101407350) - [GitHub](https://github.com/bryanyabut)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
