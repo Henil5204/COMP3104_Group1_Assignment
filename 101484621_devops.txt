@@ -1,5 +1,10 @@
 <== Developer Operations ==>
 
-COMP 3104 -DevOps is a technical course focused on teaching students how to 
-use modern tools like Travis CI and GitHub to effectivley manage continuous 
-integration (CI) and continuous deployment (CD) within large projects.
+COMP 3104 - DevOps is a technical course focused on teaching how to 
+use modern tools like Travis CI and GitHub, and Docker to effectivley manage 
+continuous integration (CI) and continuous deployment (CD) within large projects.
+
+DevOps helps developers and operations teams by promoting automation, 
+collaboration, and reliablity throught the SDLC. The course emphasizes 
+building efficient pipelines, maintaining version control, and automating 
+testing and deployment.
