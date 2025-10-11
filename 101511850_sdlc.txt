@@ -1,3 +1,12 @@
+What is SDLC?
+
+The Software Development Life Cycle (SDLC) is a structured process that enables the 
+production of high-quality, low-cost software, in the shortest possible production 
+time. The goal of the SDLC is to produce superior software that meets and exceeds 
+all customer expectations and demands.
+
+Different SDLC Models: Waterfall, Agile, Iterative, Spiral
+
 There are several reasons as to why learning DevOps plays an important
 role in software development cycle:
 
@@ -9,13 +18,3 @@ role in software development cycle:
 
     - DevOps makes teams work together better
 
-    - DevOps uses computer programs to test and put software into use which 
-      means less manual work which saves time and reduces errors
-
-    - DevOps can help organizations scale their infrastructure and resources 
-      efficiently
-
-    - DevOps uses feedback from users to make the software better over time.
-
-    - DevOps can make companies stay ahead in their industry because they can 
-      adapt quickly.
