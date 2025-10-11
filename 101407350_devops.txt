@@ -3,3 +3,8 @@
 Devops is a practice of collaborative work between the organization's
 software development and the IT operations teams. Devops is a philosophy promoting
 better communication between different teams.
+
+The DEVOPS has multiple common methodologies being used like the CI/CD, System/tools,
+and implementation of cloud computing, microservices, and containers. CI/CD is a the tools
+emphasizing task automation. Also, System/tools are the real-time monitoring, management of configuration,
+management of incidents, etc.
