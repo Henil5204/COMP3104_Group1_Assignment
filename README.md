@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Henil  Patel (101511850) - [GitHub](https://github.com/Henil5204)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Jayden Lewis (101484621) - [GitHub](https://github.com/BabyEyes17)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
