@@ -1,8 +1,8 @@
 The Software Development Life Cycle (SDLC) is an industry standard process for creating software in the most efficient and robust manner possible.
 Typically split into 6 phases, this cycle is what ensures success:
-1. Planning
-2. Analysis
-3. Design
-4. Implementation
-5. Testing & Integration
-6. Maintenance
+    1. Planning
+    2. Analysis
+    3. Design
+    4. Implementation
+    5. Testing & Integration
+    6. Maintenance
