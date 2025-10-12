@@ -6,6 +6,7 @@
 - **Member 3:** Bryan Paul Yabut (101407350) - [GitHub](https://github.com/bryanyabut)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 5:** Sami Ar Rahman (101488786) - [GitHub](https://github.com/SamiArRahman)
+- **Member 6:** Alisha Adhikari (101514070) - [GitHub](https://github.com/elliechhetri)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
