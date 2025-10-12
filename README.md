@@ -5,6 +5,7 @@
 - **Member 2:** Jayden Lewis (101484621) - [GitHub](https://github.com/BabyEyes17)
 - **Member 3:** Bryan Paul Yabut (101407350) - [GitHub](https://github.com/bryanyabut)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
+- **Member 5:** Sami Ar Rahman (101488786) - [GitHub](https://github.com/SamiArRahman)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
