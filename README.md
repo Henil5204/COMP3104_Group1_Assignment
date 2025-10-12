@@ -19,4 +19,4 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`.
 
 ## Branching Strategy
-Each member has their own branch named `101511850-Henil`. All changes are merged into the `main` branch via Pull Requests.
+Each member has their own branch named `101511850-Henil`. All changes are merged into the `main` branch via Pull Requests.- **Member 6:** Alisha Adhikari (101514070) - [GitHub](https://github.com/elliechhetri)
