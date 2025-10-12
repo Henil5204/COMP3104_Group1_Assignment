@@ -1,3 +1,6 @@
 COMP 3104 - DEVOPS
 
-This course teaches us CI/CD(continuous integration and continuous deployment ) primarily with Travis CI, GitHub Actions.
+This course teaches us CI/CD(continuous integration and continuous deployment) primarily with Travis CI, GitHub Actions.
+These pipelines install dependencies, run unit tests and publish build artifacts while keeping tokens and passwords in platform secrets instead of source code.
+This setup gives fast feedback and consistent, repeatable builds and releases. We also installed Jenkins but we haven’t used it to run pipelines yet.
+
