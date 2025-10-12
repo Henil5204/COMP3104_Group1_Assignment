@@ -1,3 +1,6 @@
 Why DevOps Matters in the Software Development Lifecycle (SDLC)
 
-DevOps helps at every step of building software: tests run automatically on every change so we get quick feedback, releases are predictable because the steps are scripted, and our environments are defined in code so everyone runs the same setup
+DevOps helps at every step of building software: 
+tests run automatically on every change so we get quick feedback, releases are predictable because the steps are scripted, 
+and our environments are defined in code so everyone runs the same setup.
+DevOps helps deliver features faster, safer, and more predictably.
