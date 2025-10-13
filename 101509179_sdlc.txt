@@ -6,3 +6,5 @@ Typically split into 6 phases, this cycle is what ensures success:
     4. Implementation
     5. Testing & Integration
     6. Maintenance
+
+It's in a development team's best interests to follow these phases in order to successfully finish projects.
