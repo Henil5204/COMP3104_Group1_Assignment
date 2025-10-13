@@ -1,0 +1,3 @@
+COMP3104 - DevOps teaches students how to collaborate using various industry standard practices.
+Some of these practices include version control on GitHub, CI/CD, use of GitHub Actions/Travis CI, integration of microservices, etc.
+We're currently collaborating on a single GitHub project, creating our own branches and then merging to the main one.
