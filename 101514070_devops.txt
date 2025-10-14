@@ -1,0 +1,5 @@
+COMP3104 DevOps focuses on version control, CI/CD, and teamwork using GitHub and automation tools.
+The course also teaches teamwork and continuous delivery pipelines.
+Updated files with formatting improvements.
+Final review completed by Alisha Adhikari.
+CI/CD improves code reliability through automation testing.

@@ -1,0 +1,17 @@
+=== SDLC ===
+
+Is a structured methodology with a defined pattern of process for creating high-quality
+software. It follows a modular process where the development plans, designs, implement,
+test, deploy, and maintenance. In simple terms it is a step-by-step process that software developers
+and their project managers follows to ensure the development of the software product is robust.
+
+Each of the process are followed by firm depending if they are using waterfall, agile, spriral,
+v-model, and incremental model. While there are different types of models being used, it all of them
+follow the same pattern of process. The first one is planning, where the team gathers information by defining
+the scope of the project which involves communication to stakeholder. Second, designing of the system which 
+includes the components of the design architecture of the database, interface, and data flow. Third, implementation,
+it is the source code of the actual documentation which is the developers job. Fourth is the testing, which the
+software is being tested for any bug fixes. Fifth is the deployment, which is the production environment to be
+able to be used by the users. Lastly, the maintenance, which just like the testing supports the final product
+for improvement and bug fixes.
+
